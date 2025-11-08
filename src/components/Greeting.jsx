@@ -18,6 +18,7 @@ function Greeting() {
 
       <h1>Simple React App</h1>
       <h2>Hello World!!</h2>
+      <h3>Hi</h3>
       <input
         type="text"
         placeholder="Enter your name"
